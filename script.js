@@ -314,7 +314,7 @@ for (const person of people) {
 const permanentMatched = new Set();
 
 const groupPdfMap = {
-  a: "pdf/1.pdf",
+  a: "https://www.are.na/block/47053267",
   b: "pdf/2.pdf",
   c: "pdf/3.pdf",
   d: "pdf/4.pdf",
