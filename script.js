@@ -314,22 +314,22 @@ for (const person of people) {
 const permanentMatched = new Set();
 
 const groupPdfMap = {
-  a: "https://www.are.na/block/47053267",
+  a: "pdf/1.pdf",
   b: "pdf/2.pdf",
   c: "pdf/3.pdf",
   d: "pdf/4.pdf",
-  e: "pdf/5.pdf",
-  f: "pdf/6.pdf",
-  g: "pdf/7.pdf",
-  h: "pdf/8.pdf",
-  i: "pdf/9.pdf",
-  j: "pdf/10.pdf",
-  k: "pdf/11.pdf",
-  l: "pdf/12.pdf",
-  m: "pdf/13.pdf",
-  n: "pdf/14.pdf",
-  o: "pdf/15.pdf",
-  p: "pdf/16.pdf"
+  e: "pdf2/5.pdf",
+  f: "pdf2/6.pdf",
+  g: "pdf2/7.pdf",
+  h: "pdf2/8.pdf",
+  i: "pdf3/9.pdf",
+  j: "pdf3/10.pdf",
+  k: "pdf3/11.pdf",
+  l: "pdf3/12.pdf",
+  m: "pdf4/13.pdf",
+  n: "pdf4/14.pdf",
+  o: "pdf4/15.pdf",
+  p: "pdf4/16.pdf"
 };
 
 document.addEventListener("DOMContentLoaded", bootstrap);
